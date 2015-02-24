@@ -1,0 +1,11 @@
+{
+  "name": "joulse-api",
+  "version": "0.0.1",
+  "description": "Joulse's Data",
+  "main": "index.json",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joulse",
+  "license": "MIT"
+}
