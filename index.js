@@ -18,15 +18,12 @@ data.projects = {
     featured: [
         {
             name: 'Fashion Group', link: '//fashiongroup.com',
-            description: 'The world leader in online services for fashion professionals.
-                Fashion Group operates FashionJobs.com, FashionMag.com and FashionNetwork.com
-                around the world available in 10 languages. '
+            description: 'The world leader in online services for fashion professionals. Fashion Group operates FashionJobs.com, FashionMag.com and FashionNetwork.com around the world available in 10 languages. '
         },
 
         {
             name: 'Attractive World', link: '//attractiveworld.net',
-            description: 'Attractive World is a web dating site that was the first to propose a principle
-                of selective admission.'
+            description: 'Attractive World is a web dating site that was the first to propose a principle of selective admission.'
         },
 
         {
@@ -36,8 +33,7 @@ data.projects = {
 
         {
             name: 'HereWeStyle', link: '//herewestyle.com',
-            description: 'HereWeStyle is a personalized online styling service. Our professional stylists
-                will find your style according to your body, your taste and personality.'
+            description: 'HereWeStyle is a personalized online styling service. Our professional stylists will find your style according to your body, your taste and personality.'
         },
 
         {
