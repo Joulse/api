@@ -14,7 +14,7 @@ data.social_networks = [
     { name: 'Soundcloud', link: '//soundcloud.com/joulse' }
 ];
 
-data.projects = {
+data.projects = [{
     featured: [
         {
             name: 'Fashion Group', link: '//fashiongroup.com',
@@ -44,6 +44,6 @@ data.projects = {
     other: [
         { name: 'mnml', link: '//joulse.com/mnml', description: 'Web Design Principles' },
     ]
-};
+}];
 
 fs.writeFileSync('index.json', JSON.stringify(data));
